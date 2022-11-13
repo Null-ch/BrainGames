@@ -1,8 +1,8 @@
-install:
+install: #install composer
 composer instal
 
-brain-games:
-./bin/brain-games
+brain-games: #run brain-gabes
+./hexlet-php/hexlet-php-/php-project-lvl1/bin/brain-games
 
-validate:
+validate: #composer validate
 composer validate
