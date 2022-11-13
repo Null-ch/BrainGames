@@ -11,8 +11,8 @@
             "email": "zuxobot@yandex.ru"
         }
     ],
-    "require": {}
     "bin": [
     "bin/brain-games"
-     ]
+     ],
+    "require": {}
 }
