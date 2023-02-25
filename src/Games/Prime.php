@@ -1,8 +1,8 @@
 <?php
 
-namespace BrainGames\Games\Prime;
+namespace BrainGames\src\Games\Prime;
 
-use function BrainGames\Engine\run;
+use function BrainGames\src\Engine\run;
 
 const GAME_TASK = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
