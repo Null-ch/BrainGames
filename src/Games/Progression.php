@@ -1,8 +1,8 @@
 <?php
 
-namespace BrainGames\Games\Progression;
+namespace BrainGames\src\Games\Progression;
 
-use function BrainGames\Engine\run;
+use function BrainGames\src\Engine\run;
 
 const MIN_ELEMENTS_COUNT = 5;
 const MAX_ELEMENTS_COUNT = 15;
